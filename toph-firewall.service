@@ -1,0 +1,13 @@
+[Unit]
+Description=TOPH Dynamic Firewall Service
+After=network.target
+Wants=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/ninadgns/BOB/dynamic-toph-firewall.sh
+RemainAfterExit=yes
+User=root
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,287 @@
+# Block search engines
+127.0.0.1   google.com www.google.com
+127.0.0.1   bing.com www.bing.com
+127.0.0.1   duckduckgo.com www.duckduckgo.com
+127.0.0.1   search.yahoo.com
+127.0.0.1   ecosia.org www.ecosia.org
+127.0.0.1   startpage.com www.startpage.com
+127.0.0.1   dogpile.com www.dogpile.com
+127.0.0.1   searx.org www.searx.org
+127.0.0.1   yandex.com www.yandex.com
+127.0.0.1   baidu.com www.baidu.com
+127.0.0.1   searx.me www.searx.me
+
+# Block coding/problem-solving platforms
+127.0.0.1   codeforces.com www.codeforces.com
+127.0.0.1   atcoder.jp
+127.0.0.1   leetcode.com www.leetcode.com
+127.0.0.1   hackerrank.com www.hackerrank.com
+127.0.0.1   geeksforgeeks.org www.geeksforgeeks.org
+127.0.0.1   codechef.com www.codechef.com
+127.0.0.1   cses.fi
+127.0.0.1   topcoder.com www.topcoder.com
+127.0.0.1   hackerearth.com www.hackerearth.com
+127.0.0.1   spoj.com www.spoj.com
+127.0.0.1   uva.onlinejudge.org
+127.0.0.1   acm.timus.ru
+127.0.0.1   poj.org www.poj.org
+127.0.0.1   lightoj.com www.lightoj.com
+127.0.0.1   dmoj.ca
+127.0.0.1   vjudge.net www.vjudge.net
+127.0.0.1   codingame.com www.codingame.com
+127.0.0.1   projecteuler.net www.projecteuler.net
+127.0.0.1   kattis.com www.kattis.com
+127.0.0.1   usaco.org www.usaco.org
+127.0.0.1   contest.yandex.com
+127.0.0.1   codingcompetitions.withgoogle.com
+127.0.0.1   facebook.com/hackercup
+127.0.0.1   codingbat.com www.codingbat.com
+127.0.0.1   interviewbit.com www.interviewbit.com
+127.0.0.1   pramp.com www.pramp.com
+127.0.0.1   algoexpert.io www.algoexpert.io
+127.0.0.1   exercism.io www.exercism.io
+127.0.0.1   lintcode.com www.lintcode.com
+127.0.0.1   binarysearch.com www.binarysearch.com
+
+# Block forums / Q&A
+127.0.0.1   stackoverflow.com www.stackoverflow.com
+127.0.0.1   reddit.com www.reddit.com
+127.0.0.1   quora.com www.quora.com
+127.0.0.1   askubuntu.com www.askubuntu.com
+127.0.0.1   serverfault.com www.serverfault.com
+127.0.0.1   superuser.com www.superuser.com
+127.0.0.1   discourse.org www.discourse.org
+127.0.0.1   stackexchange.com www.stackexchange.com
+127.0.0.1   mathoverflow.net www.mathoverflow.net
+127.0.0.1   cs.stackexchange.com
+127.0.0.1   mathstack.com www.mathstack.com
+127.0.0.1   math.stackexchange.com
+127.0.0.1   codereview.stackexchange.com
+127.0.0.1   softwareengineering.stackexchange.com
+127.0.0.1   programmers.stackexchange.com
+
+# Block AI/code generation
+127.0.0.1   chat.openai.com
+127.0.0.1   openai.com
+127.0.0.1   githubcopilot.com
+127.0.0.1   gemini.google.com
+127.0.0.1   perplexity.ai
+127.0.0.1   replit.com www.replit.com
+127.0.0.1   bard.google.com
+127.0.0.1   phind.com www.phind.com
+127.0.0.1   you.com www.you.com
+127.0.0.1   copilot.microsoft.com
+127.0.0.1   claude.ai www.claude.ai
+127.0.0.1   anthropic.com www.anthropic.com
+127.0.0.1   character.ai www.character.ai
+127.0.0.1   poe.com www.poe.com
+127.0.0.1   chat.mistral.ai
+127.0.0.1   huggingface.co www.huggingface.co
+127.0.0.1   cohere.ai www.cohere.ai
+127.0.0.1   kagi.com www.kagi.com
+127.0.0.1   neeva.com www.neeva.com
+127.0.0.1   writesonic.com www.writesonic.com
+127.0.0.1   jasper.ai www.jasper.ai
+127.0.0.1   copy.ai www.copy.ai
+
+# Block code sharing and general dev resources
+127.0.0.1   github.com www.github.com
+127.0.0.1   gitlab.com www.gitlab.com
+127.0.0.1   gist.github.com
+127.0.0.1   pastebin.com www.pastebin.com
+127.0.0.1   ideone.com www.ideone.com
+127.0.0.1   codeshare.io www.codeshare.io
+127.0.0.1   jsfiddle.net www.jsfiddle.net
+127.0.0.1   codepen.io www.codepen.io
+127.0.0.1   repl.it
+127.0.0.1   sourceforge.net www.sourceforge.net
+127.0.0.1   bitbucket.org www.bitbucket.org
+127.0.0.1   hastebin.com www.hastebin.com
+127.0.0.1   dpaste.com www.dpaste.com
+127.0.0.1   paste.ee www.paste.ee
+127.0.0.1   rentry.co www.rentry.co
+127.0.0.1   snippet.host www.snippet.host
+127.0.0.1   privatebin.info www.privatebin.info
+127.0.0.1   paste.org www.paste.org
+
+# Block social media and communication
+127.0.0.1   facebook.com www.facebook.com
+127.0.0.1   twitter.com www.twitter.com
+127.0.0.1   x.com www.x.com
+127.0.0.1   instagram.com www.instagram.com
+127.0.0.1   linkedin.com www.linkedin.com
+127.0.0.1   discord.com www.discord.com
+127.0.0.1   telegram.org www.telegram.org
+127.0.0.1   web.whatsapp.com
+127.0.0.1   snapchat.com www.snapchat.com
+127.0.0.1   tiktok.com www.tiktok.com
+127.0.0.1   youtube.com www.youtube.com
+127.0.0.1   twitch.tv www.twitch.tv
+127.0.0.1   slack.com www.slack.com
+127.0.0.1   teams.microsoft.com
+127.0.0.1   zoom.us www.zoom.us
+127.0.0.1   meet.google.com
+127.0.0.1   messenger.com www.messenger.com
+127.0.0.1   viber.com www.viber.com
+127.0.0.1   skype.com www.skype.com
+127.0.0.1   wechat.com www.wechat.com
+127.0.0.1   line.me www.line.me
+
+# Block Wikipedia and other knowledge bases
+127.0.0.1   wikipedia.org www.wikipedia.org
+127.0.0.1   en.wikipedia.org
+127.0.0.1   wiki.org www.wiki.org
+127.0.0.1   wikimedia.org www.wikimedia.org
+127.0.0.1   wikibooks.org www.wikibooks.org
+127.0.0.1   wikiversity.org www.wikiversity.org
+127.0.0.1   britannica.com www.britannica.com
+127.0.0.1   wolfram.com www.wolfram.com
+127.0.0.1   wolframalpha.com www.wolframalpha.com
+127.0.0.1   mathworld.wolfram.com
+127.0.0.1   archive.org www.archive.org
+
+# Block general programming documentation / tutorials
+127.0.0.1   docs.microsoft.com
+127.0.0.1   devdocs.io
+127.0.0.1   developer.mozilla.org
+127.0.0.1   w3schools.com www.w3schools.com
+127.0.0.1   tutorialspoint.com www.tutorialspoint.com
+127.0.0.1   programiz.com www.programiz.com
+127.0.0.1   javatpoint.com www.javatpoint.com
+127.0.0.1   cplusplus.com www.cplusplus.com
+127.0.0.1   cppreference.com www.cppreference.com
+127.0.0.1   docs.python.org
+127.0.0.1   php.net www.php.net
+127.0.0.1   ruby-lang.org www.ruby-lang.org
+127.0.0.1   golang.org www.golang.org
+127.0.0.1   rust-lang.org www.rust-lang.org
+127.0.0.1   oracle.com/java
+127.0.0.1   docs.oracle.com
+127.0.0.1   learn.microsoft.com
+127.0.0.1   codecademy.com www.codecademy.com
+127.0.0.1   freecodecamp.org www.freecodecamp.org
+127.0.0.1   codewars.com www.codewars.com
+127.0.0.1   edx.org www.edx.org
+127.0.0.1   coursera.org www.coursera.org
+127.0.0.1   udemy.com www.udemy.com
+127.0.0.1   pluralsight.com www.pluralsight.com
+127.0.0.1   lynda.com www.lynda.com
+127.0.0.1   khanacademy.org www.khanacademy.org
+127.0.0.1   udacity.com www.udacity.com
+
+# Block proxy/VPN services
+127.0.0.1   proxysite.com www.proxysite.com
+127.0.0.1   hide.me www.hide.me
+127.0.0.1   vpnbook.com www.vpnbook.com
+127.0.0.1   freevpn.me www.freevpn.me
+127.0.0.1   unblockme.com www.unblockme.com
+127.0.0.1   getfoxyproxy.org www.getfoxyproxy.org
+127.0.0.1   hola.org www.hola.org
+127.0.0.1   hidemyass.com www.hidemyass.com
+127.0.0.1   nordvpn.com www.nordvpn.com
+127.0.0.1   expressvpn.com www.expressvpn.com
+127.0.0.1   surfshark.com www.surfshark.com
+127.0.0.1   cyberghostvpn.com www.cyberghostvpn.com
+127.0.0.1   protonvpn.com www.protonvpn.com
+127.0.0.1   windscribe.com www.windscribe.com
+127.0.0.1   tunnelbear.com www.tunnelbear.com
+127.0.0.1   hotspotshield.com www.hotspotshield.com
+
+# Block file sharing / cloud storage
+127.0.0.1   drive.google.com
+127.0.0.1   dropbox.com www.dropbox.com
+127.0.0.1   onedrive.live.com
+127.0.0.1   mega.nz
+127.0.0.1   wetransfer.com www.wetransfer.com
+127.0.0.1   box.com www.box.com
+127.0.0.1   mediafire.com www.mediafire.com
+127.0.0.1   4shared.com www.4shared.com
+127.0.0.1   sendspace.com www.sendspace.com
+127.0.0.1   uploadfiles.io www.uploadfiles.io
+127.0.0.1   file.io www.file.io
+127.0.0.1   anonfiles.com www.anonfiles.com
+127.0.0.1   catbox.moe www.catbox.moe
+127.0.0.1   gofile.io www.gofile.io
+
+# Block online compilers/IDEs
+127.0.0.1   onlinegdb.com www.onlinegdb.com
+127.0.0.1   jdoodle.com www.jdoodle.com
+127.0.0.1   paiza.cloud
+127.0.0.1   compilerc.com www.compilerc.com
+127.0.0.1   programiz.com/cpp-programming/online-compiler/
+127.0.0.1   onecompiler.com www.onecompiler.com
+127.0.0.1   tutorialspoint.com/compile_python_online.php
+127.0.0.1   compilejava.net www.compilejava.net
+127.0.0.1   rextester.com www.rextester.com
+127.0.0.1   trinket.io www.trinket.io
+127.0.0.1   glot.io www.glot.io
+127.0.0.1   wandbox.org www.wandbox.org
+127.0.0.1   coliru.stacked-crooked.com
+127.0.0.1   compiler-explorer.com
+127.0.0.1   godbolt.org www.godbolt.org
+
+# Block email services
+127.0.0.1   gmail.com www.gmail.com
+127.0.0.1   mail.google.com
+127.0.0.1   outlook.com www.outlook.com
+127.0.0.1   hotmail.com www.hotmail.com
+127.0.0.1   live.com www.live.com
+127.0.0.1   yahoo.com www.yahoo.com
+127.0.0.1   mail.yahoo.com
+127.0.0.1   aol.com www.aol.com
+127.0.0.1   mail.com www.mail.com
+127.0.0.1   protonmail.com www.protonmail.com
+127.0.0.1   proton.me www.proton.me
+127.0.0.1   tutanota.com www.tutanota.com
+127.0.0.1   yandex.mail www.yandex.mail
+127.0.0.1   zoho.com www.zoho.com
+127.0.0.1   fastmail.com www.fastmail.com
+127.0.0.1   gmx.com www.gmx.com
+127.0.0.1   mail.ru www.mail.ru
+127.0.0.1   icloud.com www.icloud.com
+127.0.0.1   guerrillamail.com www.guerrillamail.com
+127.0.0.1   10minutemail.com www.10minutemail.com
+127.0.0.1   temp-mail.org www.temp-mail.org
+127.0.0.1   maildrop.cc www.maildrop.cc
+127.0.0.1   mailinator.com www.mailinator.com
+
+# Block additional messaging/communication platforms
+127.0.0.1   matrix.org www.matrix.org
+127.0.0.1   element.io www.element.io
+127.0.0.1   rocket.chat www.rocket.chat
+127.0.0.1   mattermost.com www.mattermost.com
+127.0.0.1   gitter.im www.gitter.im
+127.0.0.1   irccloud.com www.irccloud.com
+127.0.0.1   freenode.net www.freenode.net
+127.0.0.1   libera.chat www.libera.chat
+
+# Block translation services (could be used to translate problem statements)
+127.0.0.1   translate.google.com
+127.0.0.1   deepl.com www.deepl.com
+127.0.0.1   bing.com/translator
+127.0.0.1   yandex.com/translate
+127.0.0.1   reverso.net www.reverso.net
+
+# Block note-taking and collaboration tools
+127.0.0.1   notion.so www.notion.so
+127.0.0.1   obsidian.md www.obsidian.md
+127.0.0.1   docs.google.com
+127.0.0.1   sheets.google.com
+127.0.0.1   office.com www.office.com
+127.0.0.1   onenote.com www.onenote.com
+127.0.0.1   evernote.com www.evernote.com
+127.0.0.1   trello.com www.trello.com
+127.0.0.1   asana.com www.asana.com
+
+# Block mobile messaging web interfaces
+127.0.0.1   web.telegram.org
+127.0.0.1   web.skype.com
+127.0.0.1   messages.google.com
+127.0.0.1   web.signal.org
+
+# Block additional paste/sharing services
+127.0.0.1   0bin.net www.0bin.net
+127.0.0.1   zerobin.net www.zerobin.net
+127.0.0.1   paste.mozilla.org
+127.0.0.1   paste.ubuntu.com
+127.0.0.1   paste.debian.net
