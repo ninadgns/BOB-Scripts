@@ -40,12 +40,12 @@ cat > "${SCRIPT_DIR}/index.html" << EOF
         
         <div class="tab-container">
             <div class="tab-buttons">
-                <button class="tab-button active" onclick="showTab('main')">Setup Scripts</button>
-                <button class="tab-button" onclick="showTab('utils')">Undo Scripts</button>
+                <button class="tab-button" onclick="showTab('main')">Setup Scripts</button>
+                <button class="tab-button active" onclick="showTab('utils')">Undo Scripts</button>
                 <button class="tab-button" onclick="showTab('downloads')">Downloads(Fallback)</button>
             </div>
             
-            <div id="main" class="tab-content active">
+            <div id="main" class="tab-content">
 
                 <div class="command-box">
                     <h3>Step 1 Install Packages</h3>
@@ -75,18 +75,19 @@ cat > "${SCRIPT_DIR}/index.html" << EOF
                 </div>
             </div>
             
-            <div id="utils" class="tab-content">
+            <div id="utils" class="tab-content active">
                 <div class="command-box">
-                    <h3>Undo Step 1: Reset Firewall</h3>
-                    <p>Removes all firewall restrictions and restores default settings.</p>
-                    <p class="warning">⚠️ Only run this if you want to remove all network restrictions.</p>
+                    <h3>Undo: Reset Firewall (Complete Removal)</h3>
+                    <p>Completely removes all firewall restrictions and disables persistent firewall.</p>
+                    <p>Stops the systemd service and restores full internet access.</p>
+                    <p class="warning">⚠️ This will permanently remove all TOPH firewall restrictions.</p>
                     <code id="cmd4">sudo wget -qO /reset.sh ${SERVER_URL}/reset.sh && sudo chmod +x /reset.sh && sudo /reset.sh</code>
-                    <button onclick="copyCmd('cmd4')">Copy Reset Script</button>
+                    <button onclick="copyCmd('cmd4')">Copy Complete Reset</button>
                 </div>
                 
                 <div class="command-box">
-                    <h3>Undo Step 2: Change Student Password</h3>
-                    <p>Sets the password for 'student' user to 'student'.</p>
+                    <h3>Undo Step 2: Change Current User Password</h3>
+                    <p>Sets the password for the currently logged-in user to 'student'.</p>
                     <p>Bypasses Ubuntu's password complexity requirements for easy access.</p>
                     <code id="cmd5">sudo wget -qO /cngpass.sh ${SERVER_URL}/cngpass.sh && sudo chmod +x /cngpass.sh && sudo /cngpass.sh</code>
                     <button onclick="copyCmd('cmd5')">Copy Password Script</button>
@@ -180,7 +181,7 @@ cat > "${SCRIPT_DIR}/index.html" << EOF
                         if (onclick.includes('cmd1')) btn.textContent = 'Copy Step 1';
                         else if (onclick.includes('cmd2')) btn.textContent = 'Copy Step 2';
                         else if (onclick.includes('cmd3')) btn.textContent = 'Copy Complete Firewall Setup';
-                        else if (onclick.includes('cmd4')) btn.textContent = 'Copy Reset Script';
+                        else if (onclick.includes('cmd4')) btn.textContent = 'Copy Complete Reset';
                         else if (onclick.includes('cmd5')) btn.textContent = 'Copy Password Script';
                         btn.style.background = '#007bff';
                     }, 1200);
