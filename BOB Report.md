@@ -16,7 +16,6 @@ The event brought together budding programmers from across the University, offer
 The final round featured the following **10 problems**, crafted and tested by a dedicated team:
 
 **A. Post Delete Koren, Pore Somossa Hobe**
-
 * Setter: Anindya Kundu
 * Testers: Tauseef, Ifti, Kabya Mithun Saha
 
@@ -86,32 +85,32 @@ All prizewinners received **prize money** as recognition for their outstanding p
 
 **Overall Winners**
 
-* 🥇 **1st Place:** \[Name]
-* 🥈 **2nd Place:** \[Name]
-* 🥉 **3rd Place:** \[Name]
+* 🥇 **1st Place:** Ahil Islam Aurnob, CSE 22-23 session 
+* 🥈 **2nd Place:** Md. Sazid Alam, CSE 23-24 session 
+* 🥉 **3rd Place:** Soumik Deb, CSE 23-24 session 
 
 **Best Female Participants**
 
-* 🏅 \[Name]
-* 🏅 \[Name]
+* 🏅 Raima hridika, CSE 23-24 session 
+* 🏅 Ariba Hasan, CSE 23-24 session 
 
-**Best from 2023–24 Session**
+**Best from 2023–24 Session** excluding Top 3 winners
 
-* 🏅 \[Name]
-* 🏅 \[Name]
+* 🏅 Farhan Labib, CSE 23-24 session
+* 🏅 Shohidur Rahman, IIT 23-24 session
 
 **First Solvers of Each Problem**
 
-* **A. Post Delete Koren, Pore Somossa Hobe** – \[Name]
-* **B. Ektu Jodi** – \[Name]
-* **C. Odd Challenge** – \[Name]
-* **D. Frieren** – \[Name]
-* **E. D-One and the Exam Papers** – \[Name]
-* **F. Sorry bro, it’s only DP** – \[Name]
-* **G. Bit-ter Inequalities** – \[Name]
-* **H. The Interesting Divisors** – \[Name]
-* **I. Zerotate** – \[Name]
-* **J. Sakib, A Hunter** – \[Name]
+* **A. Post Delete Koren, Pore Somossa Hobe** – ***Ahil Islam Aurnob***
+* **B. Ektu Jodi** – ***Farhan Labib***
+* **C. Odd Challenge** – ***Ahil Islam Aurnob***
+* **D. Frieren** – ***Md. Akram Khan***
+* **E. D-One and the Exam Papers** – ***Ahil Islam Aurnob***
+* **F. Sorry bro, it’s only DP** – Not solved
+* **G. Bit-ter Inequalities** – Not solved
+* **H. The Interesting Divisors** – ***Ahil Islam Aurnob***
+* **I. Zerotate** – Not solved
+* **J. Sakib, A Hunter** – Not solved
 
 This recognition not only highlights the top performers but also acknowledges the sharp problem-solvers who managed to crack each problem first during the contest.
 
